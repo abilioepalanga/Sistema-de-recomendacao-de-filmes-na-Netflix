@@ -1,23 +1,23 @@
-# Sistema-de-recomendacao-de-filmes-na-Netflix
-Este projeto foi desenvolvido para sugerir filmes aos usuários com base em suas preferências e histórico de visualização. Utilizando técnicas de aprendizado de máquina e processamento de dados, o sistema é capaz de fornecer recomendações personalizadas e relevantes, melhorando a experiência de usuário e aumentando o engajamento com a plataforma.
+# Netflix-movie-recommendation-system
+This project is designed to suggest movies to users based on their preferences and viewing history. Using machine learning and data processing techniques, the system is capable of providing personalized and relevant recommendations, improving the user experience and increasing engagement with the platform.
 
 
-## Funcionalidades
-*  Recomendações Personalizadas: Sugestões de filmes baseadas nas preferências individuais do usuário.
-*  Histórico de Visualizações: Utilização do histórico de filmes assistidos pelo usuário para aprimorar as recomendações.
-*  Filtragem Colaborativa: Recomendações baseadas nas preferências de usuários semelhantes.
-*  Filtragem Baseada em Conteúdo: Sugestões baseadas nas características dos filmes, como gênero, diretor, elenco, etc.
-*  Interface de Usuário Intuitiva: Interface amigável e fácil de usar para interagir com o sistema de recomendações.
+## Functionalities
+* Personalized Recommendations: Movie suggestions based on the user's individual preferences.
+* Viewing History: Using the history of films watched by the user to improve recommendations.
+* Collaborative Filtering: Recommendations based on the preferences of similar users.
+* Content-Based Filtering: Suggestions based on the characteristics of the films, such as genre, director, cast, etc.
+* Intuitive User Interface: User-friendly and easy-to-use interface to interact with the recommendation system.
 
-### Contribuição
-Contribuições são bem-vindas! Por favor, siga as etapas abaixo para contribuir:
+### Contribution
+Contributions are welcome! Please follow the steps below to contribute:
 
-*  Faça um fork do projeto.
-*  Crie uma nova branch com sua feature: git checkout -b minha-feature
-*  Commit suas mudanças: git commit -m 'Adiciona minha feature'
-*  Faça um push para a branch: git push origin minha-feature
-*  Abra um Pull Request.
+* Fork the project.
+* Create a new branch with your feature: git checkout -b my-feature
+* Commit your changes: git commit -m 'Add my feature'
+* Push to the branch: git push origin my-feature
+* Open a Pull Request.
 
-#### Contato
-Para mais informações, entre em contato através do email: elvisprizley@yahoo.com
+#### Contact
+For more information, contact us via email: elvisprizley@yahoo.com
 
